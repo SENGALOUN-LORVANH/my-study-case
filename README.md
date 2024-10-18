@@ -1,16 +1,23 @@
-# flutter_hello
+# Flutter App - Stock System
 
-A new Flutter project.
+## Overview
+This project is a stock management system developed using Flutter. It aims to simplify the management of stock inventories for businesses.
 
-## Getting Started
+## Features
+- User Authentication
+- Inventory Management
+- Real-time Data Updates
+- Interactive User Interface
 
-This project is a starting point for a Flutter application.
+## Requirements
+- Flutter SDK
+- Dart SDK
+- Visual Studio Code
+- Android/iOS Emulator (for testing)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Clone the Repository
+```bash
+git clone https://github.com/SENGALOUN-LORVANH/my-study-case.git
+cd my-study-case/flutter-app-stock-system
